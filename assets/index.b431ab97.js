@@ -1,0 +1,2 @@
+import{av as e}from"./index.c9a13016.js";/*! PatchyVideo/Platinum by VoileLabs */const t=()=>e("theme_dark_cover_filter",!0,{writeDefaults:!1,listenToStorageChanges:!0});export{t as u};
+//# sourceMappingURL=index.b431ab97.js.map
