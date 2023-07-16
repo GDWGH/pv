@@ -1,1 +1,0 @@
-{"version":3,"file":"setSiteTitle.db0fa839.js","sources":["../../packages/common/libs/setSiteTitle.ts"],"sourcesContent":["export function setSiteTitle(title: string): void {\n  document.title = title\n}\n"],"names":["setSiteTitle","title"],"mappings":"wCAAO,SAASA,EAAaC,EAAqB,CAChD,SAAS,MAAQA,CACnB"}
