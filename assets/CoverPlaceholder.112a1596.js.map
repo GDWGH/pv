@@ -1,0 +1,1 @@
+{"version":3,"file":"CoverPlaceholder.112a1596.js","sources":["../../packages/video/components/CoverPlaceholder.vue"],"sourcesContent":["<template>\n  <div class=\"aspect-ratio-16/10 bg-gray-300 dark:bg-gray-600\" />\n</template>\n"],"names":["_sfc_render","_ctx","_cache"],"mappings":"sKACE,SAAAA,EAAAC,EAAAC,EAAA"}
