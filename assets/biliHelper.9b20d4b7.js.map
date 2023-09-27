@@ -1,0 +1,1 @@
+{"version":3,"file":"biliHelper.9b20d4b7.js","sources":["../../packages/video/libs/biliHelper.ts"],"sourcesContent":["export function pageOfVideo(url: string): number {\n  return Number(new URL(url).searchParams.get('p') || '0')\n}\n"],"names":["pageOfVideo","url"],"mappings":"wCAAO,SAASA,EAAYC,EAAqB,CACxC,OAAA,OAAO,IAAI,IAAIA,CAAG,EAAE,aAAa,IAAI,GAAG,GAAK,GAAG,CACzD"}

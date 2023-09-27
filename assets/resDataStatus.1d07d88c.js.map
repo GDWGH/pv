@@ -1,0 +1,1 @@
+{"version":3,"file":"resDataStatus.1d07d88c.js","sources":["../../packages/common/libs/resDataStatus.ts"],"sourcesContent":["export enum resDataStatus {\n  SUCCEED = 'SUCCEED',\n  FAILED = 'FAILED',\n  ERROR = 'ERROR',\n}\n"],"names":["resDataStatus"],"mappings":"wCAAY,IAAAA,GAAAA,IACVA,EAAA,QAAU,UACVA,EAAA,OAAS,SACTA,EAAA,MAAQ,QAHEA,IAAAA,GAAA,CAAA,CAAA"}
