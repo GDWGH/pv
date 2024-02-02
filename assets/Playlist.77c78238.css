@@ -1,0 +1,10 @@
+pre code.hljs[data-v-ab22c362]{display:block;overflow-x:auto;padding:1em}code.hljs[data-v-ab22c362]{padding:3px 5px}/*!
+  Theme: GitHub
+  Description: Light theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+
+  Outdated base version: https://github.com/primer/github-syntax-light
+  Current colors taken from GitHub's CSS
+*/.hljs[data-v-ab22c362]{color:#24292e;background:#fff}.hljs-doctag[data-v-ab22c362],.hljs-keyword[data-v-ab22c362],.hljs-meta .hljs-keyword[data-v-ab22c362],.hljs-template-tag[data-v-ab22c362],.hljs-template-variable[data-v-ab22c362],.hljs-type[data-v-ab22c362],.hljs-variable.language_[data-v-ab22c362]{color:#d73a49}.hljs-title[data-v-ab22c362],.hljs-title.class_[data-v-ab22c362],.hljs-title.class_.inherited__[data-v-ab22c362],.hljs-title.function_[data-v-ab22c362]{color:#6f42c1}.hljs-attr[data-v-ab22c362],.hljs-attribute[data-v-ab22c362],.hljs-literal[data-v-ab22c362],.hljs-meta[data-v-ab22c362],.hljs-number[data-v-ab22c362],.hljs-operator[data-v-ab22c362],.hljs-selector-attr[data-v-ab22c362],.hljs-selector-class[data-v-ab22c362],.hljs-selector-id[data-v-ab22c362],.hljs-variable[data-v-ab22c362]{color:#005cc5}.hljs-meta .hljs-string[data-v-ab22c362],.hljs-regexp[data-v-ab22c362],.hljs-string[data-v-ab22c362]{color:#032f62}.hljs-built_in[data-v-ab22c362],.hljs-symbol[data-v-ab22c362]{color:#e36209}.hljs-code[data-v-ab22c362],.hljs-comment[data-v-ab22c362],.hljs-formula[data-v-ab22c362]{color:#6a737d}.hljs-name[data-v-ab22c362],.hljs-quote[data-v-ab22c362],.hljs-selector-pseudo[data-v-ab22c362],.hljs-selector-tag[data-v-ab22c362]{color:#22863a}.hljs-subst[data-v-ab22c362]{color:#24292e}.hljs-section[data-v-ab22c362]{color:#005cc5;font-weight:700}.hljs-bullet[data-v-ab22c362]{color:#735c0f}.hljs-emphasis[data-v-ab22c362]{color:#24292e;font-style:italic}.hljs-strong[data-v-ab22c362]{color:#24292e;font-weight:700}.hljs-addition[data-v-ab22c362]{color:#22863a;background-color:#f0fff4}.hljs-deletion[data-v-ab22c362]{color:#b31d28;background-color:#ffeef0}.prose[data-v-ab22c362]{max-width:inherit}
